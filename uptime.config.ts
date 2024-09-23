@@ -29,7 +29,7 @@ const workerConfig = {
     },
     {
       id: "sentralise",
-      name" "Sentralise",
+      name: "Sentralise",
       method: "GET",
       target: "https://sentralise.deepcore.dev",
       timeout: 10000,
